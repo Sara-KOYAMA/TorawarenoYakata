@@ -1,0 +1,1486 @@
+fileFormatVersion: 2
+guid: 90e083d94d8b2a64fa7115a63dad7385
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 766599037386377490
+    second: '!1x1.5door2_0'
+  - first:
+      213: 9214579032758539969
+    second: '!1x1.5door2_1'
+  - first:
+      213: 5022101460851306697
+    second: '!1x1.5door2_2'
+  - first:
+      213: -4049371522454683368
+    second: '!1x1.5door2_3'
+  - first:
+      213: 4489485233632286824
+    second: '!1x1.5door2_4'
+  - first:
+      213: 1579759855776294764
+    second: '!1x1.5door2_5'
+  - first:
+      213: -2722547683885142425
+    second: '!1x1.5door2_6'
+  - first:
+      213: -1173067531228786918
+    second: '!1x1.5door2_7'
+  - first:
+      213: 5750694922394749768
+    second: '!1x1.5door2_8'
+  - first:
+      213: -7921614131372348634
+    second: '!1x1.5door2_9'
+  - first:
+      213: -334535420898404700
+    second: '!1x1.5door2_10'
+  - first:
+      213: -8173959074021600885
+    second: '!1x1.5door2_11'
+  - first:
+      213: -8472874128278335942
+    second: '!1x1.5door2_12'
+  - first:
+      213: 8253567373760143718
+    second: '!1x1.5door2_13'
+  - first:
+      213: -8529682214844165775
+    second: '!1x1.5door2_14'
+  - first:
+      213: -285013596476280817
+    second: '!1x1.5door2_15'
+  - first:
+      213: 2144782481159550640
+    second: '!1x1.5door2_16'
+  - first:
+      213: -3674000702397289535
+    second: '!1x1.5door2_17'
+  - first:
+      213: -7320901150579317463
+    second: '!1x1.5door2_18'
+  - first:
+      213: -4225927489557452875
+    second: '!1x1.5door2_19'
+  - first:
+      213: 3168763146974969926
+    second: '!1x1.5door2_20'
+  - first:
+      213: 4024330707062930921
+    second: '!1x1.5door2_21'
+  - first:
+      213: -5961261776084253583
+    second: '!1x1.5door2_22'
+  - first:
+      213: -603207698040783798
+    second: '!1x1.5door2_23'
+  - first:
+      213: 648995891427720829
+    second: '!1x1.5door2_24'
+  - first:
+      213: 6038102546069077311
+    second: '!1x1.5door2_25'
+  - first:
+      213: -3637145475429073046
+    second: '!1x1.5door2_26'
+  - first:
+      213: -4692936453725554229
+    second: '!1x1.5door2_27'
+  - first:
+      213: 2981024869555218561
+    second: '!1x1.5door2_28'
+  - first:
+      213: 4925365264970113918
+    second: '!1x1.5door2_29'
+  - first:
+      213: 1989259008374428845
+    second: '!1x1.5door2_30'
+  - first:
+      213: -3025195226020511296
+    second: '!1x1.5door2_31'
+  - first:
+      213: -6525591150557818700
+    second: '!1x1.5door2_32'
+  - first:
+      213: -7044903279031216101
+    second: '!1x1.5door2_33'
+  - first:
+      213: -634155146196152062
+    second: '!1x1.5door2_34'
+  - first:
+      213: -5994165318835591159
+    second: '!1x1.5door2_35'
+  - first:
+      213: -3345852141442311319
+    second: '!1x1.5door2_36'
+  - first:
+      213: 6036596240834030212
+    second: '!1x1.5door2_37'
+  - first:
+      213: -8105947821824558892
+    second: '!1x1.5door2_38'
+  - first:
+      213: 2519443987371001457
+    second: '!1x1.5door2_39'
+  - first:
+      213: -8762861324422540859
+    second: '!1x1.5door2_40'
+  - first:
+      213: -7434285447786262233
+    second: '!1x1.5door2_41'
+  - first:
+      213: 570531876786910738
+    second: '!1x1.5door2_42'
+  - first:
+      213: 1235123015988620697
+    second: '!1x1.5door2_43'
+  - first:
+      213: 4653887372595951239
+    second: '!1x1.5door2_44'
+  - first:
+      213: -5571796562938552465
+    second: '!1x1.5door2_45'
+  - first:
+      213: -1708095897661535763
+    second: '!1x1.5door2_46'
+  - first:
+      213: -1578294216146465149
+    second: '!1x1.5door2_47'
+  - first:
+      213: -286235765355293923
+    second: '!1x1.5door2_48'
+  - first:
+      213: -8126675019984924769
+    second: '!1x1.5door2_49'
+  - first:
+      213: 7900705592945737043
+    second: '!1x1.5door2_50'
+  - first:
+      213: -2562302308847029659
+    second: '!1x1.5door2_51'
+  - first:
+      213: -6482049965116337576
+    second: '!1x1.5door2_52'
+  - first:
+      213: -8824933988001951611
+    second: '!1x1.5door2_53'
+  - first:
+      213: 3326166213224037402
+    second: '!1x1.5door2_54'
+  - first:
+      213: 5735905730284746364
+    second: '!1x1.5door2_55'
+  - first:
+      213: 139140723063914707
+    second: '!1x1.5door2_56'
+  - first:
+      213: -8105205960450075181
+    second: '!1x1.5door2_57'
+  - first:
+      213: 4872708590707029713
+    second: '!1x1.5door2_58'
+  - first:
+      213: -7620226274333317351
+    second: '!1x1.5door2_59'
+  - first:
+      213: -2281052063822901148
+    second: '!1x1.5door2_60'
+  - first:
+      213: -670113331737107514
+    second: '!1x1.5door2_61'
+  - first:
+      213: -81854122165352524
+    second: '!1x1.5door2_62'
+  - first:
+      213: -2978432797308041496
+    second: '!1x1.5door2_63'
+  - first:
+      213: -3004344598807629748
+    second: '!1x1.5door2_64'
+  - first:
+      213: -1746465852698816848
+    second: '!1x1.5door2_65'
+  - first:
+      213: 7993819086398058111
+    second: '!1x1.5door2_66'
+  - first:
+      213: 3901578143549437216
+    second: '!1x1.5door2_67'
+  - first:
+      213: 870914507471819064
+    second: '!1x1.5door2_68'
+  - first:
+      213: -5810153557120346553
+    second: '!1x1.5door2_69'
+  - first:
+      213: -1463167774284497195
+    second: '!1x1.5door2_70'
+  - first:
+      213: 4649959239502553622
+    second: '!1x1.5door2_71'
+  - first:
+      213: -8101189376758282722
+    second: '!1x1.5door2_72'
+  - first:
+      213: -2141638693183141982
+    second: '!1x1.5door2_73'
+  - first:
+      213: -6639325529464159604
+    second: '!1x1.5door2_74'
+  - first:
+      213: -7869436106942165347
+    second: '!1x1.5door2_75'
+  - first:
+      213: 6375769593237367383
+    second: '!1x1.5door2_76'
+  - first:
+      213: 6978547087073981898
+    second: '!1x1.5door2_77'
+  - first:
+      213: -4603651577390638106
+    second: '!1x1.5door2_78'
+  - first:
+      213: -1227558625291160660
+    second: '!1x1.5door2_79'
+  - first:
+      213: -8603351642108610452
+    second: '!1x1.5door2_80'
+  - first:
+      213: 8988956589428225001
+    second: '!1x1.5door2_81'
+  - first:
+      213: -3580315318627878365
+    second: '!1x1.5door2_82'
+  - first:
+      213: -1622229176698506602
+    second: '!1x1.5door2_83'
+  - first:
+      213: 8660135455371885303
+    second: '!1x1.5door2_84'
+  - first:
+      213: -7313972083030630218
+    second: '!1x1.5door2_85'
+  - first:
+      213: 4990742129693475483
+    second: '!1x1.5door2_86'
+  - first:
+      213: -6124509141401223097
+    second: '!1x1.5door2_87'
+  - first:
+      213: 9158351303659030876
+    second: '!1x1.5door2_88'
+  - first:
+      213: 1474637433150914484
+    second: '!1x1.5door2_89'
+  - first:
+      213: 1950721453541507796
+    second: '!1x1.5door2_90'
+  - first:
+      213: -5509148006619683499
+    second: '!1x1.5door2_91'
+  - first:
+      213: -4247336543723346889
+    second: '!1x1.5door2_92'
+  - first:
+      213: 5627429529824810292
+    second: '!1x1.5door2_93'
+  - first:
+      213: 8707329986383854331
+    second: '!1x1.5door2_94'
+  - first:
+      213: 6115780139469609441
+    second: '!1x1.5door2_95'
+  - first:
+      213: -605204993779764963
+    second: '!1x1.5door2_96'
+  - first:
+      213: -416488403465680487
+    second: '!1x1.5door2_97'
+  - first:
+      213: -4893747773534919650
+    second: '!1x1.5door2_98'
+  - first:
+      213: -4497811444959828271
+    second: '!1x1.5door2_99'
+  - first:
+      213: 5643696704414482885
+    second: '!1x1.5door2_100'
+  - first:
+      213: 1980515769511841706
+    second: '!1x1.5door2_101'
+  - first:
+      213: 7982315529055225439
+    second: '!1x1.5door2_102'
+  - first:
+      213: 7547418216044622166
+    second: '!1x1.5door2_103'
+  - first:
+      213: 7785531541719346556
+    second: '!1x1.5door2_104'
+  - first:
+      213: 6103938990512295517
+    second: '!1x1.5door2_105'
+  - first:
+      213: -6700338742213199588
+    second: '!1x1.5door2_106'
+  - first:
+      213: -3700099151166514469
+    second: '!1x1.5door2_107'
+  - first:
+      213: 6246816608953459570
+    second: '!1x1.5door2_108'
+  - first:
+      213: 1907480640847904354
+    second: '!1x1.5door2_109'
+  - first:
+      213: 7614130288770429185
+    second: '!1x1.5door2_110'
+  - first:
+      213: -7624046279179814108
+    second: '!1x1.5door2_111'
+  - first:
+      213: -4588932245185119881
+    second: '!1x1.5door2_112'
+  - first:
+      213: 7098701763457341650
+    second: '!1x1.5door2_113'
+  - first:
+      213: -3710645818233823408
+    second: '!1x1.5door2_114'
+  - first:
+      213: -5007628229953088982
+    second: '!1x1.5door2_115'
+  - first:
+      213: -3646422675570548423
+    second: '!1x1.5door2_116'
+  - first:
+      213: -1782150580988370486
+    second: '!1x1.5door2_117'
+  - first:
+      213: -4772870439129687277
+    second: '!1x1.5door2_118'
+  - first:
+      213: -3717670838739827178
+    second: '!1x1.5door2_119'
+  - first:
+      213: -7960601418961072042
+    second: '!1x1.5door2_120'
+  - first:
+      213: 6321288159502120553
+    second: '!1x1.5door2_121'
+  - first:
+      213: -518791535527973191
+    second: '!1x1.5door2_122'
+  - first:
+      213: -7900525547124571945
+    second: '!1x1.5door2_123'
+  - first:
+      213: -2345584614188893407
+    second: '!1x1.5door2_124'
+  - first:
+      213: -6596387542839393091
+    second: '!1x1.5door2_125'
+  - first:
+      213: -1815375586055591387
+    second: '!1x1.5door2_126'
+  - first:
+      213: 8615686838330529001
+    second: '!1x1.5door2_127'
+  - first:
+      213: -5345062150925038314
+    second: '!1x1.5door2_128'
+  - first:
+      213: -6061560823002562372
+    second: '!1x1.5door2_129'
+  - first:
+      213: 6214183334408148142
+    second: '!1x1.5door2_130'
+  - first:
+      213: 7903567262764649217
+    second: '!1x1.5door2_131'
+  - first:
+      213: 7675587786868051927
+    second: '!1x1.5door2_132'
+  - first:
+      213: -1035721503816866125
+    second: '!1x1.5door2_133'
+  - first:
+      213: -592978891762673424
+    second: '!1x1.5door2_134'
+  - first:
+      213: -7115380438188619947
+    second: '!1x1.5door2_135'
+  - first:
+      213: -6441596385755505202
+    second: '!1x1.5door2_136'
+  - first:
+      213: -1485109225922251866
+    second: '!1x1.5door2_137'
+  - first:
+      213: 3453031989415829389
+    second: '!1x1.5door2_138'
+  - first:
+      213: -4911995670091277280
+    second: '!1x1.5door2_139'
+  - first:
+      213: -3485468240207077300
+    second: '!1x1.5door2_140'
+  - first:
+      213: -7520030462485901068
+    second: '!1x1.5door2_141'
+  - first:
+      213: 5254512354838819589
+    second: '!1x1.5door2_142'
+  - first:
+      213: -511429040847291687
+    second: '!1x1.5door2_143'
+  - first:
+      213: 5072555848518632377
+    second: '!1x1.5door2_144'
+  - first:
+      213: -4779898913623705833
+    second: '!1x1.5door2_145'
+  - first:
+      213: 5719790580812261110
+    second: '!1x1.5door2_146'
+  - first:
+      213: 2731883783127406966
+    second: '!1x1.5door2_147'
+  - first:
+      213: -4003475581546742937
+    second: '!1x1.5door2_148'
+  - first:
+      213: -883195070121366532
+    second: '!1x1.5door2_149'
+  - first:
+      213: -4374088625069117525
+    second: '!1x1.5door2_150'
+  - first:
+      213: -6495966195130693851
+    second: '!1x1.5door2_151'
+  - first:
+      213: -6175468942707198377
+    second: '!1x1.5door2_152'
+  - first:
+      213: -7605170577986403262
+    second: '!1x1.5door2_153'
+  - first:
+      213: -1608938085953092982
+    second: '!1x1.5door2_154'
+  - first:
+      213: 4772830331033089239
+    second: '!1x1.5door2_155'
+  - first:
+      213: -8647039942844162219
+    second: '!1x1.5door2_156'
+  - first:
+      213: -4746754584346654891
+    second: '!1x1.5door2_157'
+  - first:
+      213: -7173504554577364241
+    second: '!1x1.5door2_158'
+  - first:
+      213: 3754979254656944021
+    second: '!1x1.5door2_159'
+  - first:
+      213: -8389249392749631224
+    second: '!1x1.5door2_160'
+  - first:
+      213: -1932398409553995754
+    second: '!1x1.5door2_161'
+  - first:
+      213: -980085468006952170
+    second: '!1x1.5door2_162'
+  - first:
+      213: -9127781768130466561
+    second: '!1x1.5door2_163'
+  - first:
+      213: -1544774951988278196
+    second: '!1x1.5door2_164'
+  - first:
+      213: -331691576675237690
+    second: '!1x1.5door2_165'
+  - first:
+      213: -3442433390690959426
+    second: '!1x1.5door2_166'
+  - first:
+      213: 4814680168268508060
+    second: '!1x1.5door2_167'
+  - first:
+      213: -1990122579252747633
+    second: '!1x1.5door2_168'
+  - first:
+      213: -6423147421549730365
+    second: '!1x1.5door2_169'
+  - first:
+      213: 1984185237294304982
+    second: '!1x1.5door2_170'
+  - first:
+      213: 6218165546127388980
+    second: '!1x1.5door2_171'
+  - first:
+      213: -3241230353269329120
+    second: '!1x1.5door2_172'
+  - first:
+      213: -3607252186088142462
+    second: '!1x1.5door2_173'
+  - first:
+      213: -5680482472537818579
+    second: '!1x1.5door2_174'
+  - first:
+      213: 1106022833143831457
+    second: '!1x1.5door2_175'
+  - first:
+      213: -629095324407437706
+    second: '!1x1.5door2_176'
+  - first:
+      213: 4257491017217545423
+    second: '!1x1.5door2_177'
+  - first:
+      213: 2600228330812004927
+    second: '!1x1.5door2_178'
+  - first:
+      213: -7219073424154171677
+    second: '!1x1.5door2_179'
+  - first:
+      213: 1950321685808001223
+    second: '!1x1.5door2_180'
+  - first:
+      213: 4883334666170134519
+    second: '!1x1.5door2_181'
+  - first:
+      213: 2676084117114650082
+    second: '!1x1.5door2_182'
+  - first:
+      213: -5933346008003990856
+    second: '!1x1.5door2_183'
+  - first:
+      213: 562727457757690741
+    second: '!1x1.5door2_184'
+  - first:
+      213: 406142882036289201
+    second: '!1x1.5door2_185'
+  - first:
+      213: -2160033340029238522
+    second: '!1x1.5door2_186'
+  - first:
+      213: 7863262970858785819
+    second: '!1x1.5door2_187'
+  - first:
+      213: 8262851023285442536
+    second: '!1x1.5door2_188'
+  - first:
+      213: 514691316017823691
+    second: '!1x1.5door2_189'
+  - first:
+      213: -2552204315260585505
+    second: '!1x1.5door2_190'
+  - first:
+      213: 6929455274545901418
+    second: '!1x1.5door2_191'
+  - first:
+      213: 5279330291051831014
+    second: '!1x1.5door2_192'
+  - first:
+      213: 8557394744210981103
+    second: '!1x1.5door2_193'
+  - first:
+      213: 1585507737943832503
+    second: '!1x1.5door2_194'
+  - first:
+      213: -1476984765710147747
+    second: '!1x1.5door2_195'
+  - first:
+      213: 2838460397112326986
+    second: '!1x1.5door2_196'
+  - first:
+      213: 8413221707413024141
+    second: '!1x1.5door2_197'
+  - first:
+      213: -746564028136229086
+    second: '!1x1.5door2_198'
+  - first:
+      213: 6848114812988419224
+    second: '!1x1.5door2_199'
+  - first:
+      213: 2625353593111160050
+    second: '!1x1.5door2_200'
+  - first:
+      213: -7427715653336138806
+    second: '!1x1.5door2_201'
+  - first:
+      213: -1157249907425901318
+    second: '!1x1.5door2_202'
+  - first:
+      213: 2371443021037012220
+    second: '!1x1.5door2_203'
+  - first:
+      213: 5129990848403001957
+    second: '!1x1.5door2_204'
+  - first:
+      213: -7748717836733092106
+    second: '!1x1.5door2_205'
+  - first:
+      213: -3648629899075757933
+    second: '!1x1.5door2_206'
+  - first:
+      213: -1806972908682020250
+    second: '!1x1.5door2_207'
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!1x1.5door2_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219429c43c183aa00800000000000000
+      internalID: 766599037386377490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_1'
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6d5523fc2c0ef70800000000000000
+      internalID: 9214579032758539969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_2'
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c03300aba612b540800000000000000
+      internalID: 5022101460851306697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_3'
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81181880e0ebdc7c0800000000000000
+      internalID: -4049371522454683368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_4'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868930f980bdd4e30800000000000000
+      internalID: 4489485233632286824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_5'
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67e7f9083f6ce510800000000000000
+      internalID: 1579759855776294764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_6'
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ea6f16e41973ad0800000000000000
+      internalID: -2722547683885142425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_7'
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f4097ab4d68bfe0800000000000000
+      internalID: -1173067531228786918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_8'
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b4bfc30929ecf40800000000000000
+      internalID: 5750694922394749768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_9'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b26d30be5c01290800000000000000
+      internalID: -7921614131372348634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_10'
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a69090aecd7b5bf0800000000000000
+      internalID: -334535420898404700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_11'
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b819c589783409e80800000000000000
+      internalID: -8173959074021600885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_12'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e4f5d1fdd4a6a80800000000000000
+      internalID: -8472874128278335942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_13'
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 160
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6612ab21ccf8a8270800000000000000
+      internalID: 8253567373760143718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_14'
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1711f31c73b70a980800000000000000
+      internalID: -8529682214844165775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_15'
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00ffd1e4ad6b0cf0800000000000000
+      internalID: -285013596476280817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_16'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6fef59d4cc3cd10800000000000000
+      internalID: 2144782481159550640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_17'
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 160
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbe21da3d3530dc0800000000000000
+      internalID: -3674000702397289535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_18'
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925a8fbf03fe66a90800000000000000
+      internalID: -7320901150579317463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_19'
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7ae52965d7a55c0800000000000000
+      internalID: -4225927489557452875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_20'
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640cac81b45b9fb20800000000000000
+      internalID: 3168763146974969926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_21'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edbe2dc47b49d730800000000000000
+      internalID: 4024330707062930921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_22'
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174426faff7554da0800000000000000
+      internalID: -5961261776084253583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_23'
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 160
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c7f786bc9f0a7f0800000000000000
+      internalID: -603207698040783798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_24'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ebc312352b10900800000000000000
+      internalID: 648995891427720829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_25'
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d34df3646abc350800000000000000
+      internalID: 6038102546069077311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_26'
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f71a4e573468dc0800000000000000
+      internalID: -3637145475429073046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_27'
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9f43ad8275fdeb0800000000000000
+      internalID: -4692936453725554229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_28'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188a170235abe5920800000000000000
+      internalID: 2981024869555218561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_29'
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73679fdc996a5440800000000000000
+      internalID: 4925365264970113918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_30'
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4576057844b9b10800000000000000
+      internalID: 1989259008374428845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_31'
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 80
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c107d858f85406d0800000000000000
+      internalID: -3025195226020511296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_32'
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b091913c617075a0800000000000000
+      internalID: -6525591150557818700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_33'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 80
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b181c501bc97b3e90800000000000000
+      internalID: -7044903279031216101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_34'
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2011e7221470337f0800000000000000
+      internalID: -634155146196152062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!1x1.5door2_35'
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 80
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908a6d5a66270dca0800000000000000
+      internalID: -5994165318835591159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
