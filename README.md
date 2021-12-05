@@ -3,7 +3,7 @@ Unityで制作したフリーのアドベンチャーノベル風の2Dゲーム�
 
 
 ## サンプル画像
-![title](https://user-images.githubusercontent.com/92298809/144748122-b7502950-3768-491f-812a-8de65daa4566.png)
+![title](https://user-images.githubusercontent.com/92298809/144748222-e77d6421-d0ec-4608-a460-e10480b1bf1b.png)
 
 
 ## 使用した素材
