@@ -2,8 +2,9 @@
 Unityで制作したフリーのアドベンチャーノベル風の2Dゲームです。  　制作期間：1ヶ月半（2020年10月中旬頃から2020年12月末まで）
 
 
-## サンプル画像
-![title](https://user-images.githubusercontent.com/92298809/144748222-e77d6421-d0ec-4608-a460-e10480b1bf1b.png)
+## スクリーンショット
+![title](https://user-images.githubusercontent.com/92298809/144748271-42201791-4e9a-4b8f-ac4f-a511c7cf0400.png)
+![stage1]()
 
 
 ## 使用した素材
