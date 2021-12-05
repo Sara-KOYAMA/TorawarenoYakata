@@ -5,19 +5,21 @@ using UnityEngine.SceneManagement;
 
 public class Start_Stage : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    
+    public void StartGame()
     {
-        
+        SceneManager.LoadScene("Tutorial");
+        Debug.Log("Start");
     }
 
-    // Update is called once per frame
-    void Update()
+    public void EndGame()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            SceneManager.LoadScene("Tutorial");
-            Debug.Log("Start");
-        }
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+#else
+        Application.Quit();
+#endif
+        Debug.Log("End");
     }
+
 }
